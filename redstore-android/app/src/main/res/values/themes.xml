@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.RedStore" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#FF523B</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+        <item name="android:windowBackground">#F7F4F2</item>
+    </style>
+</resources>
